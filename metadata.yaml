@@ -1,11 +1,16 @@
 _repo: Hazelhurst_55297
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55297-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hunt, Enid Leigh
     gutenberg_agent_id: '48266'
     url: http://www.gutenberg.org/2009/agents/48266
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55297#Hazelhurst
 gutenberg_issued: '2017-08-07'
 gutenberg_type: Text
 identifiers:
